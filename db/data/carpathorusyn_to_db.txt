@@ -1,0 +1,1 @@
+downloaded data via webscraping, inserted data into db, normalized data in db
