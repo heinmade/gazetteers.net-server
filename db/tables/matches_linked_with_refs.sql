@@ -1,0 +1,20 @@
+CREATE TABLE public.matches_linked_with_refs (
+    type character varying,
+    is_inverse_statement boolean,
+    db1 character varying,
+    db1id character varying,
+    db2 character varying,
+    db2id character varying,
+    linkdb character varying,
+    linkdbid character varying,
+    match_type character varying,
+    match_subtype character varying,
+    match_levdist integer,
+    match_geodist_meter double precision,
+    ref_dbpath character varying,
+    ref_db1id_only_one_ref_to_db2 boolean,
+    ref_db2id_only_one_ref_to_db1 boolean,
+    ref_distance integer,
+    refid character varying,
+    type_order integer
+);
