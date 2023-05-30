@@ -1,0 +1,1907 @@
+Q70208	municipality of Switzerland
+Q74047	ghost town
+Q442799	faubourg
+Q442993	group home
+Q448801	big district town
+Q449111	subdivision
+Q452020	submarine pen
+Q453909	built-up area
+Q790344	district of Barcelona
+Q800188	Île-de-France Clusters
+Q810227	base camp
+Q810652	bastide
+Q815324	town municipality of Turkey
+Q820254	mining community
+Q821435	borough of Berlin
+Q75848	gated community
+Q83020	provincial city
+Q88034	burh
+Q88205	castrum
+Q1296717	Egalitarian community
+Q1307779	integrated municipality
+Q1311819	Heimet
+Q1317251	fishing village
+Q1319414	Mueang
+Q1321241	outpost
+Q1326028	camp
+Q1329068	Moorhufendorf
+Q1331767	Mellah
+Q1852859	populated place in the Netherlands
+Q1867820	City status in the United Kingdom
+Q1872284	municipality of Guatemala
+Q1887569	shōen
+Q1906268	municipality of Bulgaria
+Q1419251	Quebec City–Windsor Corridor
+Q1422929	primate city
+Q1426493	trailer park
+Q1434401	dzielnica
+Q1441562	Coterminous municipality
+Q484170	commune of France
+Q486972	human settlement
+Q1780633	religious intentional community
+Q1782540	railway town
+Q1788752	kongsgård
+Q1797194	arts district
+Q1802801	rural municipality of Austria
+Q1807977	Veenkoloniën
+Q1808877	deelgemeente
+Q1815926	effective rural municipality
+Q1829505	tuindorp
+Q1840161	commune of Chile
+Q132213	Haubarg
+Q2023000	khutor
+Q2039348	municipality of the Netherlands
+Q877290	Gemeindebau
+Q882149	nagari
+Q893555	borgo
+Q896881	city with tens of thousands of inhabitants
+Q902814	border town
+Q904319	Koreatown
+Q826553	Falowiec
+Q828359	commuter town
+Q841869	new town of Hong Kong
+Q851110	district of Budapest
+Q851124	List of neighborhoods of Budapest
+Q856076	municipality of Finland
+Q1969642	neighborhood of San Francisco
+Q1974855	Dehkan farm
+Q1976594	science park
+Q1985797	municipal unit of Greece
+Q1989945	agrotown
+Q114178	Bürgerkommune
+Q123601	cities and towns in Lebanon
+Q123705	neighborhood
+Q505681	linear village
+Q505963	artificial dwelling hill
+Q509028	ranch
+Q515483	baladiyah
+Q517760	commune
+Q498162	census-designated place
+Q499073	direct-controlled municipality
+Q1344719	Urban Enterprise Zone
+Q1348006	city block
+Q1349648	municipality of Greece
+Q1350536	naukograd
+Q923953	transborder agglomeration
+Q925381	city with powiat rights
+Q941150	city region
+Q954172	Comune sparso
+Q955655	municipality of Iceland
+Q1019292	Bäuert
+Q1021096	civic community
+Q1021360	place of origin
+Q1021711	seaside resort
+Q1025961	capital of Japan
+Q456075	Pueblos jóvenes
+Q461741	NKVD special camp
+Q465960	Jesuit missions among the Guaraní
+Q469510	30 km/h zone (20 mph zone)
+Q471822	megalopolis
+Q907231	Japantown
+Q909458	jōkamachi
+Q914425	Signoria
+Q917146	moshav
+Q918230	Roman villa
+Q1394476	civil township
+Q1399147	fazenda
+Q1406318	Holiday Village
+Q1406988	grand ensemble
+Q1410029	list of the municipi of Genoa
+Q1415423	Quilombo
+Q1416696	finca
+Q1907114	metropolitan area
+Q518343	municipal borough
+Q519630	South African township
+Q523342	Emslandlager
+Q537250	federal city
+Q133442	city-state
+Q562061	market municipality
+Q578521	borough of Montreal
+Q581830	carfree city
+Q582706	Israeli settlement
+Q584571	Kiez
+Q89477	castellum
+Q89691	ksar
+Q104157	city of the Philippines
+Q1059478	town of Japan
+Q1060846	yūkaku
+Q1062710	municipality of Bolivia
+Q1066538	National Central City
+Q1066984	financial centre
+Q1507736	torp
+Q1512068	sołectwo
+Q1516519	Hooverville
+Q1520456	business park of private company
+Q1529096	village in Turkey
+Q1530824	metropolitan municipality
+Q1544543	Greektown
+Q2168991	Rotte
+Q2170377	cauliflower neighborhhod
+Q2176016	Rundangerdorf
+Q2183520	obec
+Q2191560	Skid row
+Q2191999	Pogost
+Q2195811	titular city
+Q2202509	Roman city
+Q490329	dong
+Q493522	municipality of Belgium
+Q494721	city of Japan
+Q1847458	engenho
+Q1849719	municipal formation in Russia
+Q1851368	waterfront
+Q1852119	district of Graz
+Q1852178	locality of Düsseldorf
+Q587089	city with municipal rights
+Q587144	census town
+Q603715	county of New Brunswick
+Q604435	microdistrict
+Q604886	charter city of the United States
+Q609042	shtetl
+Q152018	ghetto
+Q1074523	planned community
+Q1093829	city of the United States
+Q1468524	city center
+Q1471114	chacra
+Q1479822	urban unit
+Q1484611	buurtschap
+Q1493533	parish village
+Q1500352	local municipality
+Q1501046	community settlement
+Q856079	municipality of the Faroe Islands
+Q860582	community area in Chicago
+Q864288	bioenergy village
+Q866623	Olympic Village
+Q1557068	Ndumba
+Q1567101	Hakhshara
+Q1568229	hay
+Q1568283	milecastle
+Q1568530	Hagenhufendorf
+Q1574228	hanamachi
+Q1584957	Borough of Palermo
+Q1589568	district municipality
+Q153813	extermination camp
+Q155511	plant nursery
+Q627236	company town
+Q627253	working class quarter
+Q634099	rural settlement of Russia
+Q108696	horse stud farm
+Q109199	list of cities and towns in Georgia
+Q127448	municipality of Sweden
+Q131596	farm
+Q2066754	manor
+Q2101494	municipality in Switzerland
+Q2110788	posessió
+Q2112349	district-level town of Vietnam
+Q2115448	intra-city territory of a federal city
+Q2116450	manor estate
+Q2138558	regiopolis
+Q2140144	tract housing
+Q2148181	Rhode
+Q2148684	co-operative living arrangements
+Q2154459	New England town
+Q474164	Boomtown
+Q477195	Meierhof
+Q482810	special city
+Q482821	metropolitan city of South Korea
+Q483519	ri
+Q159350	Rundling
+Q159438	Hero City
+Q985488	residential community of the People's Republic of China
+Q992194	Hutterite colony
+Q1002812	metropolitan borough
+Q1006876	borough in the United Kingdom
+Q1547289	Luther city
+Q1548518	large district town
+Q1548525	large independent city of Lower Saxony
+Q1549591	big city
+Q537981	Angerdorf
+Q558330	municipality of Cuba
+Q1928746	moshava
+Q1940624	Banlieue
+Q1952852	municipality of Mexico
+Q1957554	ecoboot
+Q1962175	Nahal settlement
+Q1963041	municipality of Moldova
+Q1963395	crossroad village
+Q1968403	post town
+Q158490	Gaeltacht
+Q159313	urban agglomeration
+Q152081	concentration camp
+Q2074737	municipality of Spain
+Q2087991	Romanian Black Sea resorts
+Q2089229	list of cities in Alberta
+Q2098891	Platzdorf
+Q1357964	county town
+Q1361214	Marschhufendorf
+Q1372205	dispersed settlement
+Q1375749	European City
+Q1381899	municipality of Vietnam
+Q1391818	military dependents' village
+Q2340158	Zaścianek
+Q2342385	urban area
+Q2367508	township of Taiwan
+Q2371398	Regional Service Commission
+Q2373919	intentional community
+Q1029013	Megaregions of the United States
+Q1050126	sub-provincial district of the People's Republic of China
+Q1050303	downtown
+Q1054813	municipality of Japan
+Q2393184	hill station
+Q2416047	list of communities in Alberta
+Q2432369	Japanese internment camps in the Dutch East Indies
+Q2445823	floating city
+Q2473740	kerkdorp
+Q2479824	altepetl
+Q2502365	Little America
+Q201759	slum
+Q202509	Chinatown
+Q134626	district capital
+Q137773	ward of Japan
+Q148837	polis
+Q1750414	Asty
+Q1751950	Korporationsgemeinde
+Q1758856	commune of Mali
+Q1761572	barrio
+Q1762221	Neotribalism
+Q687312	Vorort
+Q691960	satellite city
+Q692581	holy city
+Q692680	Ortsgemeinde
+Q2514025	posyolok
+Q2519150	Displaced city
+Q2525994	villa urbana
+Q2555896	municipality of Colombia
+Q2560332	Werkbundsiedlung
+Q2561694	city-kingdom of Cyprus
+Q1623243	Hofschaft
+Q1633408	concelho
+Q1635663	folwark
+Q1637706	city with millions of inhabitants
+Q36617857	Crocetta Centre
+Q36728566	ranger station
+Q37501518	Japanese Americans relocation camp
+Q37800986	Serbian city
+Q39947311	warehouse district
+Q40131033	member city of Eurotowns
+Q40256562	intracity district of Belarus
+Q40553563	restaurant district
+Q41067667	municipality of Tunisia
+Q41108733	settlement of Andorra
+Q41501164	village of Crimea
+Q41560536	Innovation City
+Q41778911	Ortsgemeinde of Rhineland-Palatinate
+Q42211429	township of Minnesota
+Q177966	dead end village
+Q180928	Paris districts
+Q183342	federal city of Russia
+Q1231729	contrada of Siena
+Q1232414	Großgemeinde
+Q1234236	pā
+Q1256805	Drei-Flüsse-Stadt
+Q1258093	Dreiseithof
+Q1264690	transit camp
+Q1266029	edge city
+Q1266202	Jesuit reduction
+Q1067867	Sestiere of Venice
+Q1070942	commune-level town of Vietnam
+Q1070990	county-level city
+Q748149	prefecture-level city
+Q748198	gay village
+Q667509	municipality of Austria
+Q674950	residential area
+Q677678	fortified town
+Q2633055	twin village
+Q2636673	aljama
+Q2640310	residential areas and neighbourhoods in Arnhem
+Q2648768	residential areas and neighbourhoods in Muiden
+Q2650083	museum farm
+Q2650121	residential areas and neighbourhoods in Graft-De Rijp
+Q2661988	urban settlement in Russia
+Q2666845	municipality of South Africa
+Q2679045	rancho of California
+Q2689658	central municipality
+Q610625	Municipi of Milan
+Q618299	settlement
+Q618846	apoikia
+Q620509	military town
+Q622499	refugee camp
+Q638626	Banjar (Sociology of Bali)
+Q640364	municipiu of Romania
+Q652360	sustainable city
+Q1094397	autonomous city
+Q1094545	Civitas
+Q1102346	Clos
+Q1107167	cohousing
+Q1128482	container village
+Q205549	Zipserei
+Q208511	global city
+Q30559599	group of houses
+Q30892871	inhabited area
+Q31271043	Neighbourhoods of Rīga
+Q32597970	Bremerhaven district
+Q33101426	urban council of Ukraine
+Q33146843	municipality of Catalonia
+Q34843301	capital of county in Romania
+Q34982659	quarter of Bucharest
+Q34985575	city district
+Q34986717	city of Malaysia
+Q35034452	locality of Berlin
+Q655593	emporia
+Q660088	garden city
+Q666943	associated commune
+Q1154868	displaced persons camp
+Q1155688	Thesaban
+Q1163745	Majsamiklósvár
+Q1169748	cascina a corte
+Q1187811	college town
+Q1198413	military camp
+Q1208802	direct-controlled municipality
+Q1214953	large village of Hungary
+Q1231558	smart city
+Q1762524	planned community in France
+Q1763214	municipio
+Q1768043	Metropolitan Statistical Area
+Q1770306	Südtiroler-Siedlung
+Q702842	municipal arrondissement
+Q702869	municipal arrondissement of Lyon
+Q702875	municipal arrondissement of Marseille
+Q707813	Hanseatic city
+Q737681	municipalities with language facilities
+Q738570	central business district
+Q738847	canaba
+Q742313	Sardinian Judicati
+Q192601	oppidum
+Q200209	cities of Ukraine
+Q679388	municipal arrondissement of Paris
+Q681277	city with county rights
+Q685309	former municipality of Switzerland
+Q685320	municipality of Qatar
+Q2716259	metropolitan municipality in Turkey
+Q2740635	Stadtbezirk
+Q2755753	area of London
+Q2779745	urban district of the Netherlands
+Q2781990	free village of Liège
+Q2786687	Steenhuis
+Q2795367	neighborhood in Utrecht
+Q2215397	English-language word ""city""
+Q2218838	list of municipalities in Nova Scotia
+Q2225692	fourth-level administrative division in Indonesia
+Q2225945	satellite village
+Q2235075	centre city
+Q2264924	port settlement
+Q161387	kibbutz
+Q163301	Ortsbezirk of Germany
+Q174844	megacity
+Q184889	Zeilendorf
+Q187768	cities and towns in Russia
+Q188509	suburb
+Q2583015	ghetto in Nazi-occupied Europe
+Q2590631	municipality of Hungary
+Q2602693	municipality of Honduras
+Q2616791	urban municipality of Poland
+Q1714048	Jurydyka
+Q1719244	subcamp
+Q1729821	Schweizer Nationalgestüt
+Q1739536	inner city
+Q1743100	church town of Sweden
+Q1745026	naval arsenal
+Q1748732	movie ranch
+Q1749269	city designated by government ordinance
+Q1266818	independent city
+Q1269448	retirement community
+Q1269749	town with fewer than 5000 inhabitants
+Q1272305	University village (Leipzig)
+Q1281153	technology park
+Q1288520	local council in Israel
+Q1294703	shanty town
+Q693827	favela
+Q702492	urban area
+Q755707	municipality of Norway
+Q756780	colonia
+Q763590	vicus
+Q188913	plantation
+Q42402287	cité
+Q42619282	municipal okrug of Saint Petersburg
+Q42744322	urban municipality of Germany
+Q42811590	farmyard
+Q42961155	quarter of Milan
+Q43185013	maritime republic
+Q44529188	town
+Q44551483	city
+Q47254761	village in Finland
+Q47320699	Parish of Nicosia Municipality
+Q47320766	Parish of  Ayios Dhometios Municipality
+Q47320775	Parish of Strovolos Municipality
+Q47320785	Parish of Lakatamia Municipality
+Q47320794	Parish of Latsia Municipality
+Q47320804	Parish of Dali Municipality
+Q47320814	Parish of Kythrea Municipality
+Q47320908	Parish of  Morphou Municipality
+Q47320925	Parish of Prastio Nicosia
+Q47320938	Parish of Spilia
+Q47320952	Parish of Karavostasi
+Q47320964	Parish of  Xerovounos
+Q47325026	Parish of Keryneia Municipality
+Q47325112	Parish of Karavas Municipality
+Q47325202	Parish of Lapithos Municipality
+Q47325770	Parish of Paphos Municipality
+Q47325870	Parish of Yeroskipou Municipality
+Q47325959	Parish of Polis Chrysochous Municipality
+Q203300	municipality of Liechtenstein
+Q205181	offshore financial centre
+Q213468	municipium
+Q215712	urban heat island
+Q218739	Entrepôt
+Q748331	stanitsa
+Q751708	village in the United States
+Q752596	Cities of Refuge
+Q55780222	Roman colonies in Berber Africa
+Q55863584	former municipality of Spain
+Q56152103	Greenbelt town
+Q56293109	Civic community
+Q56309822	El Houma
+Q56398194	core municipal part with the same name as the municipality in the Czech Republic
+Q56436498	village in India
+Q56557504	city of Iran
+Q56557664	şəhər
+Q56575365	city of krai significance
+Q56580032	city of republic significance
+Q56580326	city of okrug significance
+Q56580425	city of oblast significance
+Q56885310	compact rural community
+Q56885635	Dispersed rural community in Canada
+Q57416832	former municipality of Greenland
+Q57946620	pig farm
+Q57976957	historic hamlet
+Q58034368	Rrumbullak
+Q58034386	Sallbegaj
+Q58042577	Steblevë
+Q58043944	Prrenjas-Fshat
+Q58339518	town in India
+Q58339717	city of India
+Q59341087	town in Nova Scotia
+Q59501724	human settlement of Cyprus Republic
+Q59772144	startup center
+Q60351842	Complex of Communities of Cyprus Republic
+Q60458065	city
+Q60723709	re-education camp
+Q60849925	municipal district in Russia
+Q1128906	medina quarter
+Q1130491	Sloboda
+Q1131233	Monotown
+Q1132300	metropolitan region in Germany
+Q1134686	frazione
+Q2827758	Ai no shuku
+Q2841546	neighborhood of Utrecht
+Q2843044	tree farm
+Q2844893	cidade
+Q2845944	former arrondissement of Paris
+Q2888533	Gesher HaZiv
+Q2907285	youth village
+Q2908791	Israeli outpost
+Q2911266	borough of New Jersey
+Q2912045	Summer capital
+Q2917049	Jewish ghetto in Europe
+Q2935245	concentration camp in France
+Q211450	closed city
+Q211690	London borough
+Q190928	shipyard
+Q1650922	rural municipality
+Q1652571	hut village
+Q1656724	ideal city
+Q1662100	industrial park
+Q1662118	Industrial city
+Q1669338	Ortslage
+Q1683373	Edo-period village
+Q1708422	settlement site
+Q236371	orchard
+Q243882	Zwerchhof
+Q244793	twin cities
+Q745456	business cluster
+Q747074	comune of Italy
+Q1137833	core city of Japan
+Q1138414	hermitage
+Q1145012	special city of Japan
+Q3032041	local service district
+Q3032114	district of Madrid
+Q3055075	entertainment district
+Q200250	metropolis
+Q713146	County-administered city
+Q719592	local council of Malta
+Q735428	town in China
+Q2267870	independent community
+Q2276760	longtang
+Q2276925	municipality of Galicia
+Q2282602	housing estate
+Q2288876	farm with camp site
+Q2324785	Amsterdam as a gay capital
+Q2324952	Poljana, Prevalje
+Q2327515	city district of Baden-Württemberg
+Q245260	conurbation
+Q250811	sub-province-level division
+Q3199141	city of Indonesia
+Q3243765	municipality of Argentina
+Q3249005	provincial city
+Q3252927	parish in New Brunswick
+Q3257686	locality
+Q90133396	Borokalia Nashkara
+Q90881611	castle town
+Q91730648	urban-type settlement in Belarus
+Q91733160	urban settlement in Belarus
+Q91733598	resort settlement in Belarus
+Q91733790	worker settlement in Belarus
+Q93431946	civitas stipendiara
+Q93445941	stork village
+Q93664896	neighborhood of Jordan
+Q94140445	Royal Herd of Aranjuez
+Q96096605	Farmhouses in Hälsingland
+Q96180429	city district of Langenhagen
+Q96857311	Village of Guam
+Q96948740	former municipality of the Faroe Islands
+Q97145897	Kanalgehöft
+Q97312698	City district in Hannover, Germany
+Q97384443	rubber plantation
+Q97410416	derevnya
+Q97441319	worm farm
+Q97460874	Hali
+Q97706291	market settlement
+Q98058553	municipal employee
+Q515	city
+Q3957	town
+Q3413329	neighborhood in Boston
+Q3413345	neighbourhood of Toulouse
+Q3446093	Saltpeter works
+Q3475734	Science Parks of Wallonia
+Q3477348	urban sector
+Q3480610	Sestiere di Milano
+Q3480608	Sestiere of Rapallo
+Q3485393	Complutum
+Q3491915	urban-rural municipality of Poland
+Q3497366	whaling station
+Q3500564	municipality of Nuevo León
+Q3055118	single entity of population
+Q3067318	Faubourgs of Montreal
+Q3068961	city farm
+Q3111821	list of communities in New Brunswick
+Q3113369	Little Saigon
+Q3147563	regency seat
+Q3184121	municipality of Brazil
+Q278976	borough of Hamburg
+Q287414	neighborhood in New York City
+Q295472	ecovillage
+Q2989421	concejo de Navarra
+Q2989454	commune nouvelle
+Q2989457	urban-type settlement
+Q2989468	Communes d'arrondissement of Senegal
+Q2997091	municipality of Tamaulipas
+Q317548	resort town
+Q317669	district of Düsseldorf
+Q318727	municipality of Nicaragua
+Q328468	Nazi concentration camp
+Q55118936	Kirchgemeinde
+Q55137114	British concentration camps
+Q55237813	village of New York
+Q55313685	municipality of Macau
+Q55430416	town in Alberta
+Q55440238	city in Alberta
+Q55506436	Xinjiang internment camps
+Q55612423	General Law City
+Q55669439	ostrich farm
+Q55774719	township municipality in Ontario
+Q3333855	Métropole
+Q3350685	olive grove
+Q3354019	seat farm
+Q3374262	market town
+Q3394564	quarter of Luxembourg City
+Q3412193	business cluster in France
+Q261023	district of Vienna
+Q262166	municipality of Germany
+Q4442912	capital of Russia
+Q4443227	Stone Age settlement site
+Q4632675	dwelling place
+Q4668360	Aboriginal community in Western Australia
+Q4677538	active adult housing
+Q4688498	aerotropolis
+Q4691828	age-restricted community
+Q4693828	tourist farm
+Q4693952	Agricultural commune
+Q4700325	Akasen
+Q4797182	art commune
+Q4804181	asentamiento
+Q4826120	auto row
+Q4826725	automotive city
+Q4858354	barangay
+Q4875694	Beach Cities
+Q4896947	re-education camp
+Q4922356	black jail
+Q4943467	Boomburb
+Q3284867	cendea of Navarre
+Q3298871	sundown town
+Q3301053	consolidated city-county
+Q3317612	historic grouping
+Q3327752	clachan
+Q3327862	urban commune of Morocco
+Q771444	aul
+Q777120	borough of Pennsylvania
+Q779426	urban district of Hungary
+Q780287	Aussenwacht
+Q780454	Aussiedlerhof
+Q782970	Domus
+Q69465104	morería (neighborhood)
+Q70036182	city of Taiwan under Japanese rule
+Q70780172	tea plantation
+Q71144301	metropolitan region
+Q72025746	gateway city
+Q72030539	farmstead
+Q74293993	rural municipality
+Q74403295	Village Haji Ali Muhammad Rahu
+Q75021917	neighborhood in Amman
+Q75135432	administrative quarter in Barcelona
+Q75338598	municipal part of Prague
+Q75880277	barrio of El Salvador
+Q75883519	colonia
+Q75884168	colonia of El Salvador
+Q76514543	municipality of Georgia
+Q78053217	basic unit of settlement
+Q78764992	port town
+Q78816625	Medieval villages in France
+Q79323854	city of oblast subordinance
+Q79324274	city of raion surbodinance
+Q3920245	Historical city of Russia
+Q3927247	borough of Florence
+Q3927244	boroughs of Bologna
+Q3927245	quarter of Brescia
+Q3927250	quarter of the city of Lugano
+Q3927259	quarter of Reggio Calabria
+Q3927262	district of Salzburg
+Q3927261	quarter of Naples
+Q3931970	metropolitan region in Brazil
+Q4012861	mill town
+Q4056979	agglomeration of Russia
+Q4057659	Subdivision of Kyiv
+Q4057819	Subdivision of Odessa
+Q4057902	Military shipyard
+Q4102813	Valentinovka
+Q4129217	vyselok
+Q4155473	vacation village
+Q15284	municipality
+Q3685462	commune of Haiti
+Q3685476	abolished municipality in Italy
+Q3689003	contrada
+Q3689087	suppressed Contrada of Siena
+Q3700328	military croft
+Q3710552	cultural district
+Q3711763	tourist district
+Q3744870	township
+Q3752524	gmina's auxiliary unit
+Q3788231	Municipal government in Canada
+Q3835961	località
+Q3867179	municipality of Naples
+Q3867183	municipalità of Venice
+Q47326153	Quarter of Larnaca Municipality
+Q47326217	Quarter of Aradippou Municipality
+Q47326257	Quarter of Dromolaxia-Meneou Municipality
+Q47328627	Parish of Famagusta Municipality
+Q47328699	Parish of Aigialousa
+Q47328702	Parish of Rizokarpaso
+Q48098186	Neighborhoods in Zaragoza
+Q48731335	village of Brunei
+Q49271840	Village-level division of Republic of China
+Q49956097	paleolithic site
+Q50330360	second largest city
+Q50809253	alev
+Q51049922	village
+Q51929311	largest city
+Q271035	neighborhood unit
+Q272888	red-light district
+Q273615	sovkhoz
+Q3327870	municipal corporation in the United States
+Q3327871	district municipality
+Q3327874	rural municipality of Canada
+Q3327873	local municipality of Quebec
+Q3327899	municipality of Ontario
+Q3327920	municipality of Venezuela
+Q3332809	Megastructures
+Q4174776	village of Japan
+Q4189057	Supernumerary town
+Q4249901	specific city
+Q4272761	administrative city of Indonesia
+Q4285979	gampong
+Q4286337	city district
+Q251749	pueblo
+Q252021	villa rustica
+Q252708	list of municipalities in New Jersey
+Q253019	Ortsteil
+Q532	village
+Q3558430	villa
+Q3558965	Cree village
+Q3558970	village of Poland
+Q3558972	airpark
+Q3559003	northern village
+Q3559019	urban village
+Q3559024	village of Senegal
+Q3559093	sanctuary city
+Q60913568	village in Russia
+Q60995739	moated settlement
+Q61089180	part of municipality in the Czech Republic
+Q61297932	neighborhood in Manhattan, New York City
+Q61298024	neighborhood in Queens, New York City
+Q61298104	neighborhood in Bronx, New York City
+Q61298209	neighborhood in Staten Island, New York City
+Q61298320	neighborhood in Brooklyn, New York City
+Q61492541	urban area in Finland
+Q61708053	independent city of Saxony-Anhalt
+Q61708099	urban district in Saxony
+Q61729985	Little Italy
+Q61747322	urban district of Thuringia
+Q61763947	municipality of Aragon
+Q61793478	district independent city of Brandenburg
+Q2945522	nudist community
+Q2974142	circulade
+Q2974552	city in New Jersey
+Q2974842	lost city
+Q2979655	closerie
+Q2989369	rural community of New Brunswick
+Q2989398	commune of Algeria
+Q2989400	commune of Morocco
+Q65660829	chutar
+Q65661087	village in Belarus
+Q65665664	pasiolak
+Q66126784	municipality of Sonora
+Q66458650	sociological neighborhood
+Q66467322	former neighbourhood
+Q66493917	proprietærgård
+Q66626342	urban ensemble
+Q66626479	Pátio
+Q66765132	Medieval hilltop towns in Italy
+Q67123843	town divided by border
+Q67259991	Hinterland communities of  South East Queensland
+Q67927652	village in Malaysia
+Q68889614	rural municipality
+Q68979886	ward of Girona
+Q68982447	sector of Girona
+Q69391739	Greek colony
+Q329245	basic unit of settlement in Czechia
+Q329683	industrial park
+Q338313	business park
+Q5769220	cigarral
+Q5770438	Citânia
+Q5770918	city of Argentina
+Q5844636	model farm
+Q5871700	fundus
+Q5874958	Hobby farm
+Q5875137	Hobohemia
+Q5916199	housing development
+Q5951278	urban area
+Q5978208	locality of Colombia
+Q6005581	municipality of the Dominican Republic
+Q6017815	Kishlak
+Q5124027	city proper
+Q5124028	City region
+Q5124045	city with special status
+Q5137839	Coal town
+Q5148198	colonia
+Q5148433	Colonias of Mexico City
+Q5153359	municipality of the Czech Republic
+Q5158311	poverty area
+Q5175541	Cottage country
+Q15334	municipality of Poland
+Q61856863	urban district in Schleswig-Holstein
+Q61980648	urban district of Hesse
+Q62251453	village of Cambodia
+Q62394014	Quarters of Aachen
+Q63208468	city in Ecuador
+Q63208555	city in Gabon
+Q63209072	city in Colombia
+Q63440326	city of Oregon
+Q63441182	Sponge city
+Q64210393	Kurdish village
+Q64515521	Municipality of South Vietnam
+Q64636958	school district of Oregon
+Q64648301	Yawkasakrom
+Q64911820	populated area of the city of Alicante
+Q64913082	neighborhood of Alicante
+Q65037959	village site
+Q65038006	foundation of a house
+Q65048099	foundations of goahti
+Q65064889	Bronze Age settlement site
+Q65065011	Iron Age settlement site
+Q65131977	Almaty (district of Aktobe)
+Q65562265	Hermitage of San Miguel de Arretxinaga
+Q65589340	capital of a prefecture of Japan
+Q7245779	prison farm
+Q7246209	private housing estate in Hong Kong
+Q7251867	proto-city
+Q7265977	former municipality of the Netherlands
+Q7268568	former grietenij
+Q7290796	ranchería
+Q7315048	Research-Intensive Clusters
+Q7315175	research park
+Q7315416	residence park
+Q7366200	Rookery
+Q7374547	Royal Navy Dockyard
+Q7535038	skid row
+Q7549943	sober living house
+Q7551933	mahallah
+Q4946304	borough of Connecticut
+Q4946305	borough in the United States
+Q4946361	Boroughs of Canada
+Q5055981	Conceyu d'Asturies
+Q5068175	Chak
+Q5100179	Chinatowns in Africa
+Q5100181	Chinatowns in Asia
+Q5100185	Chinatowns in the Middle East
+Q5107861	medieval commune
+Q5123999	city of regional significance of Ukraine
+Q5123997	city of federal subject significance of Russia
+Q15110	metropolitan city of Italy
+Q7899896	Urban Employment Area
+Q7900093	urban area of New Zealand
+Q7900128	Urban kibbutz
+Q7900183	urban township of Ohio
+Q7900180	urban township of the United States
+Q7900181	urban township of Michigan
+Q7930611	village of Oregon
+Q7930614	village of Taiwan
+Q7930615	village of Vermont
+Q7930612	village of New Jersey
+Q7930989	city/town
+Q5084	hamlet
+Q3559137	Gallo-Roman city
+Q3559227	City in Ireland
+Q3565075	Raions of cities in Ukraine
+Q3575763	permanent autonomous zone
+Q3578796	Ecodistrict
+Q3593580	îlet
+Q3610510	ethnic enclave
+Q3624938	city district of Brazil
+Q3632873	Bailey
+Q3674986	Chinatowns in Europe
+Q3677930	quarter of Messina
+Q3677936	circoscrizioni di Torino
+Q3678424	city with special status
+Q3685434	municipality of Uruguay
+Q262882	statutory city of Austria
+Q263639	municipality of Puerto Rico
+Q269528	unincorporated area
+Q6024226	metropolitan municipality
+Q6028003	Industrial suburb
+Q6035676	inner suburb
+Q6148126	jamoat
+Q6158221	Japanese Immigrant Villages in Taiwan
+Q6190055	Jewish ghetto in German-occupied Poland
+Q6190136	Jewish settlement
+Q6344036	neighborhood in Almería
+Q6350957	district of Cartagena, Spain
+Q6373489	Kartah
+Q6566301	urban area in Nordic countries
+Q6593035	separated municipality in Ontario
+Q6609673	list of cities in British Columbia
+Q6609748	city of New Brunswick
+Q52132873	town
+Q52154375	district or neighborhood of Los Angeles
+Q52994899	unincorporated area of Greenland
+Q54115138	municipality of New Jersey
+Q54809707	Quarter of Kato Polemidia Municipality
+Q54864872	Quarter of Mesa Geitonia Municipality
+Q54865711	Quarter of Yermasoyia Municipality
+Q54867049	Quarter of Ayios Athanasios Municipality
+Q54935504	city of Switzerland
+Q54935786	medium district town
+Q54980441	Pishaj
+Q55118208	internment Camp for Romani people
+Q79413632	city part of Innsbruck
+Q79416466	Neighborhood of Frankfurt
+Q79633016	Broumov farmhouses
+Q79791637	fermtoun
+Q81324829	temporary camp associated with the Antonine Wall
+Q81830252	Byzantine city
+Q82350989	unenclosed settlement
+Q83854831	family camp
+Q83857655	hostage camp
+Q83859074	women's camp
+Q83861849	tent camp
+Q83863399	men's camp
+Q85631896	urban district of Bavaria
+Q85632032	urban district of Rhineland-Palatinate
+Q85635301	urban district of Mecklenburg-Vorpommern
+Q85635630	urban district of North Rhine-Westphalia
+Q85635638	urban district of Bremen
+Q85635929	urban district of Lower Saxony
+Q85636199	urban district of Hamburg
+Q85775242	Kāinga
+Q85875185	Morería (city)
+Q87412232	Alsaroti Corner Building
+Q87518090	municipal sector
+Q87542664	sector of Marseille
+Q88397339	Railway point in Canada
+Q89031988	provincial municipality of Turkey
+Q89487741	city of Bulgaria
+Q98556505	Railway towns in Australia
+Q22865	independent city of Germany
+Q24764	municipality of the Philippines
+Q6838968	Kozhuun
+Q6888356	model village
+Q6936383	municipality of Lebanon
+Q6936404	Municipalities of the State of Palestine
+Q6957995	villages of Kulp, 1928
+Q6980841	Naturally occurring retirement community
+Q6988049	Neighborhood planning unit
+Q6988077	neighborhoods in Providence
+Q6988097	neighborhoods of Jacksonville
+Q6988184	neighbourhood of Delhi
+Q7005232	New Age communities
+Q7068215	nucleated village
+Q7112842	outpost
+Q7113057	outstation
+Q7132722	paper township
+Q7199986	Pizza farm
+Q7201627	plantations in the American South
+Q7209617	Police village
+Q7216840	urban-type settlement in Ukraine
+Q253270	borough of Munich
+Q257391	federal capital
+Q257978	statutory city
+Q258913	kontor
+Q18702	Royal free city
+Q22715	vineyard
+Q5177804	county island
+Q5195043	borough
+Q5215430	danchi
+Q5228121	dava
+Q5251732	defunct townships of Cuyahoga County, Ohio
+Q5256322	demonstration farm
+Q5268974	Dhani and villages
+Q5283507	district of Davao City
+Q5327369	chōchō
+Q5327509	koaza
+Q5327704	special ward of Japan
+Q9093938	Walled villa
+Q9286736	Hato
+Q10267336	neighborhood of Madrid
+Q10270157	new town
+Q10280357	favela in São Paulo
+Q10354598	rural settlement
+Q10377997	Water town (China)
+Q10433151	civic municipality
+Q10499251	vacation area
+Q106079704	independent component city
+Q106342591	new area of the People's Republic of China
+Q106464094	Bura-Buri Than
+Q106464977	Built-up area
+Q106468588	Jewish settlement in the land of Israel
+Q106491242	community district of New York City
+Q106491314	community district of Manhattan
+Q106491323	community district of the Bronx
+Q106491329	community district of Brooklyn
+Q106491334	community district of Queens
+Q106491341	community district of Staten Island
+Q106518841	Zoom town
+Q106520522	heritage village
+Q106574296	aduar
+Q106577041	historic towns in Australia
+Q106594812	Neighborhoods and raions in Ternopil
+Q106614007	Orang Asli post
+Q106618908	Abadi
+Q106626840	historical settlement
+Q106803726	country town
+Q25691	crocodile farm
+Q39463	trading post
+Q45263	Hidden village
+Q55116	quarter of Monaco
+Q4291381	amalgamated hromada
+Q4313794	populated place in Georgia
+Q4314343	language border municipality
+Q4337558	Dorp (Netherlands)
+Q4353657	Kronohemman
+Q4373615	colony of the Russian empire
+Q4374398	urban-type settlement in Uzbekistan
+Q4375340	pochinok
+Q4389092	district of Moscow
+Q4425709	sō
+Q4436080	city with a population of more than 10,000 inhabitants in Russia
+Q4437001	stanitsa in Russia
+Q13218357	city of California
+Q13218382	charter city and county
+Q13218391	charter city
+Q13218690	town in Hungary
+Q13410464	county of Maryland
+Q10554290	lappstad
+Q10564515	monzenmachi
+Q10571400	köping
+Q10715540	Residential Zone
+Q10727088	Ödesbölen
+Q10840661	urban area of Vietnam
+Q10840669	Class V town
+Q10925819	Hakka walled village
+Q11129101	ethnic village
+Q11183787	Ortschaft
+Q11271835	state capital
+Q11302190	kotan
+Q11361229	shitamachi
+Q11374182	Kagai of Kyoto
+Q11381457	tenmachō
+Q11396522	shoki-shōen
+Q348884	municipal community
+Q350735	tae
+Q350895	abandoned settlement
+Q351190	Waldhufendorf
+Q356090	Reihendorf
+Q377283	temporary capital
+Q378508	municipality of Angola
+Q5333096	eco-municipality
+Q5377740	district of Tehran
+Q5396348	Tree breeding
+Q5433334	family farm
+Q5446765	mahala
+Q5447132	field system
+Q5459907	floating city
+Q5476644	Fox Cities
+Q5500414	Freedmen's town
+Q5532181	General Service Area
+Q5556082	neighbourhood in Tehran
+Q5571369	quarter of a city in Italy
+Q5586091	gore
+Q5615133	guest ranch
+Q5645450	hamlet of Clackamas County in Oregon
+Q5670577	alqueria
+Q5756064	casería
+Q5762461	Hill town
+Q5764144	Hilltowns in Italy
+Q7553685	municipal district of Bulgaria
+Q7557352	Soldier settlement
+Q7574798	special city of North Korea
+Q7574799	special city of South Korea
+Q7574919	specialized municipality in Alberta
+Q7632428	suburb of Canberra
+Q7819319	Czech municipality with expanded powers
+Q7829892	town of New Jersey
+Q7830079	town of district significance in Russia
+Q7830214	crofting township
+Q7830213	township of New Jersey
+Q7841907	municipality with authorized municipal office
+Q7885245	unincorporated urban community of Canada
+Q7885250	unincorporated town in Nevada
+Q7885248	unincorporated communities in Eau Claire County, Wisconsin
+Q7886462	Moshav shitufi
+Q11423996	zaigōmachi
+Q11439934	hanamachi in Osaka
+Q11452119	kanshōfu-shō
+Q11455719	kishinchi-kei-shōen
+Q11457718	jinaimachi
+Q11462226	Koedo
+Q11488831	mikuriya
+Q11502785	hanamachi in Niigata
+Q11506008	Japanese port settlement
+Q11521076	Sassenhirofuku
+Q11524038	hanamachi in Tokyo
+Q11549307	water town
+Q11589724	hanamachi in Kobe
+Q11647353	hanamachi in Kanazawa
+Q11658180	jin'yamachi
+Q11662690	aosen
+Q11679959	Outskirt (Al-Andalus)
+Q11697931	Farm
+Q11722303	rural municipality of Sweden and Finland
+Q11723820	jednostka osadnicza
+Q11732217	Flecken
+Q11774771	county of Nova Scotia
+Q3504085	rural municipality of Poland
+Q3505887	city council
+Q3519572	Thankful Village
+Q3545675	city of license
+Q3551273	Universal CityWalk
+Q3555852	seed orchard
+Q3556889	municipality of El Salvador
+Q378636	village with a church
+Q401315	Sestiere
+Q408804	borough of New York City
+Q424857	ōaza
+Q13410522	borough of Alaska
+Q13411064	pastoral lease
+Q13414965	Gaeltacht Iorrais agus Acaill
+Q13416557	Royal city
+Q13420058	municipal community in Sweden
+Q13455645	administrative city in the Republic of Ireland
+Q13526752	lugar
+Q13539802	place with town rights and privileges
+Q13582281	circoscrizione di decentramento comunale in Italy
+Q11881845	town
+Q11912920	casal
+Q11939023	population nucleus (Spain)
+Q11940652	Valencian pedania
+Q11954567	veïnat
+Q11962746	metropolitan region of Norway
+Q11983070	rural municipality of Norway
+Q12015578	Urban municipality
+Q12015918	Colony (Poland)
+Q12031379	capital of region
+Q12039044	urban township of Taiwan
+Q12047276	provincial town
+Q5119	capital
+Q13626398	urban okrug in Russia
+Q13645388	luxury real estate
+Q13734172	Italian industrial district
+Q13997861	partido of Buenos Aires
+Q14178148	proveniershuis
+Q14242187	city district of Nizhny Novgorod
+Q14379247	Rural–urban fringe
+Q14419427	sugarcane plantation
+Q14454091	Public Rental Housing
+Q14502790	settlement of Hungary
+Q428986	Linear city
+Q98651954	Viertelsgemeinde
+Q98938901	town of Vermont
+Q98966896	coastal settlement
+Q99691499	kommune
+Q99945381	Farmers' company town
+Q100268926	iberian settlement
+Q100341898	market municipality of Germany
+Q100503226	town of the United Kingdom
+Q100689072	Quarter of La Spezia
+Q100701580	quarter of Cagliari
+Q100705184	Quarter of Catania
+Q100961648	historic town
+Q101475956	superblock
+Q101500124	medieval city
+Q102240431	Chinese village
+Q104376770	pick-your-own farm
+Q104414508	100 percent corner
+Q104488513	proposed city
+Q104600084	Winter capital
+Q104774075	urbanized area
+Q104774089	urban cluster
+Q104841013	hromada
+Q105080440	park entrance station
+Q105492024	village of Saudi Arabia
+Q105658132	district of Legnano
+Q105742469	legislative capital
+Q105742483	executive capital
+Q105742499	judicial capital
+Q106071004	town of New York state
+Q106071744	former town
+Q106072745	coterminous town-village of New York
+Q106078286	component city
+Q12051488	populated place in Ukraine
+Q12054099	neighborhood of Jerusalem
+Q12057022	medieval town
+Q12057402	holy city of Islam
+Q12063697	neighborhood of Washington, D.C.
+Q12082132	rural village
+Q12082384	urban village
+Q12102963	city specifically designated in the state plan
+Q12104567	housing estate
+Q12131624	city in Ukraine
+Q57058	municipality of Croatia
+Q57318	free imperial city
+Q15092400	independent city
+Q15105893	town in Croatia
+Q15127012	town of the United States
+Q15127838	city under state jurisdiction in Latvia
+Q17278559	quarter of Bremen
+Q17279532	Quarter of Verona
+Q17290932	Cree reserved land
+Q17305746	northern settlement of Saskatchewan
+Q17318027	rural commune of Morocco
+Q17319854	Haras Nationaux
+Q17343829	unincorporated community in the United States
+Q17351697	township of New Hampshire
+Q17361402	community of the People's Republic of China
+Q17366755	hamlet
+Q17457202	population centre
+Q17457437	Census agglomeration
+Q17468479	district of Oulu
+Q17468533	former municipality of Finland
+Q62049	county seat
+Q12131640	city of district significance
+Q12134916	center of oblast
+Q12159392	Seven Cities of Delhi
+Q12161100	cortijo
+Q12225020	uzlah
+Q12304704	urban area in Denmark
+Q12317354	hovedgård
+Q12336315	rural municipality of Denmark
+Q12336912	Railway towns in Denmark
+Q12343515	Udsted
+Q12372955	tree nursery
+Q15129871	municipality of Azerbaijan
+Q15141625	subdistrict municipality
+Q15141632	Thesaban Nakhon
+Q15142636	pirate haven
+Q15195406	city district in Russia
+Q15210668	lower-tier municipality
+Q15219655	civil town of Wisconsin
+Q15221242	village of Wisconsin
+Q17496379	City district in Austria
+Q17507358	Syrian refugee camps
+Q17540983	open air site
+Q17591477	Ringdorf
+Q17624511	caserío
+Q17634997	balneario
+Q18285253	Alberta special area
+Q18398645	types of towns and cities in Russia
+Q18413195	Stadtkreis
+Q18475442	list of neighbourhoods in Barra da Tijuca
+Q18511725	market town
+Q14520137	winter camp
+Q14601169	human fortified settlement
+Q14616455	destroyed city
+Q14762205	municipal district of Alberta
+Q14762300	single-tier municipality
+Q14762890	regional municipality of Ontario
+Q14763041	county of Ontario
+Q14770218	cantonal capital of Switzerland
+Q12488911	kampung
+Q12488913	kampung of Papua
+Q12551453	nomadic camp
+Q15221256	city of Wisconsin
+Q15221304	first-class city
+Q15221310	second-class city
+Q15221370	third-class city
+Q15221373	fourth-class city
+Q15234658	improvement district of Alberta
+Q15253706	like a city
+Q15260353	host city
+Q15273785	Belgian municipality with city privileges
+Q7963019	Walled villages of Hong Kong
+Q7963016	Walled village
+Q8049262	courtyard neighborhood
+Q8069436	zero-carbon city
+Q8254378	cabecera municipal
+Q8452914	district town
+Q8561193	district of Valencia
+Q8960966	favela in Rio de Janeiro
+Q9016264	Jewish quarter
+Q9017117	kampong
+Q9035798	township of Pennsylvania
+Q14784328	state capital in Germany
+Q14829592	Haufendorf
+Q14839548	minor locality in Sweden
+Q14916829	internment camp
+Q14947481	wierde
+Q15008703	daba
+Q18559008	district of São Paulo
+Q18587469	residential community
+Q18600372	borough of Dresden
+Q18600709	Chefsgaard
+Q18608436	quarter of Florence
+Q18632459	ulus
+Q18646840	divorce municipality
+Q18663566	dissolved municipality of Japan
+Q18663579	former municipality of Norway
+Q18663765	stud farm
+Q15063142	urban township of Minnesota
+Q15063600	home rule city of Michigan
+Q15063611	city in the state of New York
+Q15068900	town in Prince Edward Island
+Q15078955	urban-type settlement in Russia
+Q15079751	submunicipality of Amsterdam
+Q15092344	urban area in Norway
+Q15303838	municipality seat
+Q15411479	town of Connecticut
+Q15411644	town of Virginia
+Q15463116	wild horse stud farm
+Q15501937	alqueria
+Q15584664	city under municipality jurisdiction in Latvia
+Q15630849	village of Bulgaria
+Q15632133	city district of Cologne
+Q15632166	city part of Cologne
+Q18696097	Textile Company Town in Catalonia
+Q18729324	razyezd
+Q18821702	former commune of France
+Q18918041	Municipality of West Bengal
+Q19285917	hilltop settlement
+Q19347965	former municipality of Austria
+Q19658107	neighborhood of Brazil
+Q19708617	smaal-house area
+Q19710962	State-owned farm
+Q19730508	former municipality
+Q12712989	concelho of Cape Verde
+Q12716802	Matrikkelgard
+Q12721325	human outpost
+Q12813115	urban area in Sweden
+Q12816129	béguinage
+Q13025342	Thesaban Mueang
+Q6621272	former municipality of Sweden
+Q6621998	list of hamlets in Alberta
+Q6622000	hamlet in Saskatchewan
+Q6629667	list of municipalities in Turkey
+Q6636519	resort village in Saskatchewan
+Q6641762	summer village in Alberta
+Q6643740	town in Manitoba
+Q6643749	list of towns in Nova Scotia
+Q6643834	township of North Dakota
+Q6644696	village in Alberta
+Q6644759	village of New Brunswick
+Q6650409	Little India
+Q6650818	Little Manila
+Q6784672	municipality of Slovakia
+Q15634883	district of Manila
+Q15644358	Arbeitslager
+Q15647906	city of Portugal
+Q15650103	municipality of Libya
+Q15661340	ancient city
+Q19754218	Home Ownership Scheme housing estate
+Q19832914	defined community of Minneapolis
+Q19833170	town of Portugal
+Q19884342	village of North Macedonia
+Q19886692	neighbourhood of São Paulo
+Q19903011	Jewish locality
+Q19905455	borough
+Q19939940	ban
+Q19944049	pekon
+Q20019082	work settlement of Russia
+Q20102367	talaiotic village
+Q20202352	locality of Mexico
+Q20538317	village in Saskatchewan
+Q20541692	settlement in Galicia, Spain
+Q13033753	ladested
+Q13099270	Setring
+Q13100073	village-level division in China
+Q13217644	municipality of Portugal
+Q21086297	castellum aquae
+Q21130185	an existing village of a former municipality in Finland
+Q21507383	provincial or territorial capital city in Canada
+Q21507948	former village
+Q21518270	state or insular area capital in the United States
+Q21550633	garden city
+Q21658093	Districts of Aktobe
+Q15715391	town inside a parish
+Q15715406	neighbourhood of Helsinki
+Q15725677	pedanía
+Q15727363	Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangüé
+Q15727673	city district of Hanover
+Q15731904	municipal district of Nova Scotia
+Q15793693	caserío
+Q15830667	quarter of Hamburg
+Q15840617	planned capital city
+Q15876732	internment camp on the Isle of Man
+Q15911903	state-level new area of the People's Republic of China
+Q15921247	constituent locality
+Q15921300	sector of Bucharest
+Q22674930	destroyed settlement
+Q22674939	sunken settlement
+Q22675614	pentapolis
+Q22833408	District of the city of Strasbourg, France
+Q22907229	Christian Communities
+Q22927548	commune in merger-association
+Q22927616	commune of France with specific status
+Q22958233	farm of Norway
+Q23010647	suburb of Perth
+Q23012917	village of Burkina Faso
+Q23036513	former municipality of Denmark
+Q23308490	dusun
+Q20616831	flooded village
+Q20645909	locality with the main parish church
+Q20658319	community orchard
+Q20683285	neighbourhood in Rio de Janeiro
+Q20724701	city or town in Armenia
+Q20738855	urban area with a population of 150-199
+Q20826840	municipality
+Q20899166	regional capital (France)
+Q20968646	neighborhood of historical district of Moscow
+Q21010817	city of Pennsylvania
+Q21051254	Einhof
+Q21073100	bivouac
+Q23541388	city district of Lappeenranta
+Q23640644	Levitical city
+Q23827730	village in Sudan
+Q23828031	village in Jordan
+Q23870569	ranchería of California
+Q23925393	Douar
+Q21672098	village of Ukraine
+Q21751582	deserted medieval village
+Q21851888	district of the city in the Czech Republic
+Q21856567	agro-town
+Q21857891	Swedish city
+Q21869758	delegated commune
+Q22580836	village in Latvia
+Q22674925	former populated place
+Q23953065	local urban district
+Q24068255	13 Kohanic cities
+Q24258416	railway station
+Q24700892	post town
+Q24945773	Human Rights City
+Q25339974	quinta
+Q25377665	gambling city
+Q25391965	city (German language)
+Q25398029	exurb
+Q25412751	rural entity in Chile
+Q25412763	city in Chile
+Q25412766	town of Chile
+Q25412770	urban entity in Chile
+Q25421146	llogaret
+Q25450277	lähiöt Suomessa
+Q25565492	Paulesh
+Q25637977	Traditional Sinhala villages
+Q26086501	rabat
+Q15974307	Einheitsgemeinde of Germany
+Q15974311	unincorporated area in Germany
+Q15975450	smallholding
+Q15978299	municipality with town privileges in the Czech Republic
+Q16155707	městys
+Q16181672	special autonomous city in South Korea
+Q16295254	upper-tier municipality
+Q16351639	aprūpes ciems
+Q16352482	scattered village in Latvia
+Q16355778	average size village in Latvia
+Q16362394	large village in Latvia
+Q16363214	small village in Latvia
+Q16363669	sports park
+Q26201757	Civitas foederata
+Q26211545	desa
+Q26714626	large village
+Q26742250	former municipality of Estonia
+Q26844382	district of Tampere
+Q26960982	insula
+Q27095194	bookshop neighbourhood
+Q27104997	civil parish with city status
+Q27134986	place of destination
+Q27254666	urban-type settlement by the railway station
+Q27517483	railroad crossing
+Q27531730	kordon
+Q27554677	former capital
+Q27654220	abandoned hamlet
+Q27676414	city
+Q27676416	city or town
+Q27676422	township municipality
+Q27676420	village municipality of Quebec
+Q27676424	united townships municipality
+Q27676431	naskapi village municipality
+Q27676428	municipality
+Q27676524	parish municipality
+Q27702623	academic enclave
+Q27824520	Inuit reserved land
+Q27942327	village in Vietnam
+Q28045485	market town municipality of Sweden
+Q28052515	Subdivision
+Q30504307	maritime settlement
+Q30504342	riverside settlement
+Q16423630	abandoned farm
+Q16511251	Municipality of Greenland
+Q16520910	yellow-star house
+Q16532593	autonomous city of Spain
+Q16537979	castelliere
+Q16557344	diseminado
+Q16668702	Palm grove
+Q16724476	town of Belarus
+Q16739079	municipalities of Cyprus Republic
+Q16751551	borough of Brescia
+Q16751788	circoscrizione of Vicenza
+Q28067896	Kurort
+Q28107315	quartier of Saint Barthélemy
+Q28148504	museum district
+Q28169748	Amsar
+Q28203007	administrative sector
+Q28228887	insula
+Q28328984	village in Armenia
+Q28371991	village of Yemen
+Q28372019	neighborhood of Yemen
+Q28517279	population entity in Chile
+Q28539166	quarter of the city of Basel, Switzerland
+Q28541343	forest tree nursery
+Q28656402	new town in Alberta
+Q28659128	city of North Korea
+Q28683527	yūkaku in Shimonoseki
+Q28710264	organic farm
+Q28843552	factory complex
+Q28916128	local government district
+Q28924735	unincorporated area of Victoria, Australia
+Q28942344	Indigenous Australian community
+Q29043077	civil parish group
+Q29048704	traditional settlement in Greece
+Q29414133	Communities of Cyprus Republic
+Q29463880	Quarter of Limassol Municipality
+Q29467088	rural municipality of Nepal
+Q29556224	city in Cyprus
+Q29641323	Womyn's land
+Q29946056	highly urbanized city
+Q29959075	housepit
+Q30060572	rural municipality of Canada
+Q30114493	bounded rural locality
+Q30324022	organized industrial zone
+Q30339232	sector of Chișinău
+Q30493986	villa area
+Q16761595	circoscrizione of Treviso
+Q16825568	Caravan city
+Q16830604	census town of India
+Q16832602	Kommuniondorf
+Q16837104	bairro
+Q16858213	town in Romania
+Q16878951	private town
+Q16889359	game farm
+Q16918164	estate village
+Q16933701	principal city
+Q16936588	village of Pennsylvania
+Q16942708	Cardu
+Q16969603	settlement
+Q17011863	Shaker community
+Q17015330	Neighborhoods of Minneapolis
+Q17050310	Vorstadt
+Q17051044	mahalle
+Q17134625	municipality of Bermuda
+Q17135847	quarter of Genoa
+Q17137839	circoscrizione of Verona
+Q17198524	civil township of South Dakota
+Q17198545	township of Illinois
+Q17198620	township of Ohio
+Q17201685	township of Indiana
+Q17205621	township of Iowa
+Q17205735	township of Kansas
+Q17205774	township of Michigan
+Q17233249	city district of Szczecin
+Q17276937	ward of Madrid
+Q17278423	district of Bremen
+Q130360	
+Q206824	
+Q228385	
+Q678820	
+Q801738	
+Q811303	
+Q1014933	
+Q1175519	
+Q1175522	
+Q1214947	
+Q1214945	
+Q1440591	
+Q1462091	
+Q1487089	
+Q1495733	
+Q1500394	
+Q1501116	
+Q1544184	
+Q1563681	
+Q1622981	
+Q1662017	
+Q1699960	
+Q1713951	
+Q1758254	
+Q1759006	
+Q1797396	
+Q1835354	
+Q1866095	
+Q1891566	
+Q2002507	
+Q2012289	
+Q2051209	
+Q2073573	
+Q2092943	
+Q2094129	
+Q2164984	
+Q2180609	
+Q2196159	
+Q2197079	
+Q2207993	
+Q2229627	
+Q2248015	
+Q2251202	
+Q2280389	
+Q2294779	
+Q2305818	
+Q2334604	
+Q2392703	
+Q2393615	
+Q2441638	
+Q2460358	
+Q2465988	
+Q2514492	
+Q2523643	
+Q2523674	
+Q2564609	
+Q2595432	
+Q2605228	
+Q2632264	
+Q2752520	
+Q2774769	
+Q2801464	
+Q2940766	
+Q2948675	
+Q2974620	
+Q3060146	
+Q3172900	
+Q3333432	
+Q3390714	
+Q3497368	
+Q3555847	
+Q3559100	
+Q3631457	
+Q3642453	
+Q3657267	
+Q3661417	
+Q3677886	
+Q4055738	
+Q4100864	
+Q4134849	
+Q4205191	
+Q4205194	
+Q4205195	
+Q4205192	
+Q4205193	
+Q4205198	
+Q4205199	
+Q4205196	
+Q4205197	
+Q4205202	
+Q4205203	
+Q4205200	
+Q4205201	
+Q4205204	
+Q4379239	
+Q5708091	
+Q6174014	
+Q8196150	
+Q9248451	
+Q9386054	
+Q9696256	
+Q9730870	
+Q10272959	
+Q10280443	
+Q10329259	
+Q10401396	
+Q10423826	
+Q10425988	
+Q10497140	
+Q10499752	
+Q10865718	
+Q11352443	
+Q11418825	
+Q11420479	
+Q11422603	
+Q11480697	
+Q11503672	
+Q11503991	
+Q11505677	
+Q11643523	
+Q11643712	
+Q11659397	
+Q11696869	
+Q11836709	
+Q11891850	
+Q11908565	
+Q11997521	
+Q12003595	
+Q12012287	
+Q12029144	
+Q12038856	
+Q12075102	
+Q12116124	
+Q12179166	
+Q12232785	
+Q12313264	
+Q12336407	
+Q12411695	
+Q12715564	
+Q12763958	
+Q12767238	
+Q12885262	
+Q13010665	
+Q13028711	
+Q13028920	
+Q13134576	
+Q13134971	
+Q13415859	
+Q13430105	
+Q13455211	
+Q13583718	
+Q13732359	
+Q15701964	
+Q15705202	
+Q15806875	
+Q15849630	
+Q15849827	
+Q15881338	
+Q16014774	
+Q16132253	
+Q16133394	
+Q16346815	
+Q16451291	
+Q16480895	
+Q16514244	
+Q16577077	
+Q16638537	
+Q16652878	
+Q16679728	
+Q16915447	
+Q17174727	
+Q17599845	
+Q18009853	
+Q18088164	
+Q18408637	
+Q18466065	
+Q18466176	
+Q18485046	
+Q18677363	
+Q18691318	
+Q18691480	
+Q19388266	
+Q19393982	
+Q19507642	
+Q19547677	
+Q19608753	
+Q19760240	
+Q19796166	
+Q19817970	
+Q19835481	
+Q19974058	
+Q20103881	
+Q20107855	
+Q20818846	
+Q21012165	
+Q21598521	
+Q22248247	
+Q23925100	
+Q24026248	
+Q24067406	
+Q25412758	
+Q25412759	
+Q25412760	
+Q25412771	
+Q25412772	
+Q25412779	
+Q25412780	
+Q25412784	
+Q25412785	
+Q25504578	
+Q25616677	
+Q27062006	
+Q27254663	
+Q27295972	
+Q27517161	
+Q27517998	
+Q27518087	
+Q27518260	
+Q27518266	
+Q27518282	
+Q27518287	
+Q27518793	
+Q27526294	
+Q27526303	
+Q27532791	
+Q27532818	
+Q27537456	
+Q27537502	
+Q27554593	
+Q27566198	
+Q27577201	
+Q27587491	
+Q27588300	
+Q27588331	
+Q27905703	
+Q28050899	
+Q28502371	
+Q28754498	
+Q29386689	
+Q29390553	
+Q29390827	
+Q29390824	
+Q29390831	
+Q29390834	
+Q29390837	
+Q29473586	
+Q29473607	
+Q30503896	
+Q30503903	
+Q30503904	
+Q30503905	
+Q30503911	
+Q30503908	
+Q30503912	
+Q30503913	
+Q30503918	
+Q30503916	
+Q30503922	
+Q30503925	
+Q30503930	
+Q30503928	
+Q30559493	
+Q30892276	
+Q31458588	
+Q31835971	
+Q39881836	
+Q48784221	
+Q48845950	
+Q50066265	
+Q51573395	
+Q51588808	
+Q54959403	
+Q55076205	
+Q56312482	
+Q56345297	
+Q56366312	
+Q58036156	
+Q58270523	
+Q58854609	
+Q60220838	
+Q62130005	
+Q62269194	
+Q63390901	
+Q63497359	
+Q63531558	
+Q64524328	
+Q65057939	
+Q65241205	
+Q65246805	
+Q65274067	
+Q65281628	
+Q66364404	
+Q67462766	
+Q68028199	
+Q68981550	
+Q71111443	
+Q71145903	
+Q72264395	
+Q74303884	
+Q74523705	
+Q77836349	
+Q79119281	
+Q79337953	
+Q79414634	
+Q79423884	
+Q79423998	
+Q79424059	
+Q84140257	
+Q89266677	
+Q90400139	
+Q91088676	
+Q95246722	
+Q96033523	
+Q96034032	
+Q96210457	
+Q97122090	
+Q97195426	
+Q97202782	
+Q98141352	
+Q98398975	
+Q98437811	
+Q98446331	
+Q98446431	
+Q102329612	
+Q104352269	
+Q104352457	
+Q104352503	
+Q104352619	
+Q104352735	
+Q104352803	
+Q104352895	
+Q104530309	
+Q104641871	
+Q105254117	
+Q105561716	
+Q105587861	
+Q105588854	
+Q105743178	
+Q105744167	
+Q105847253	
+Q105882470	
+Q106389302	
+Q106491277	
+Q106491339	
+Q106491386	
+Q106492558	
+Q106504960	
+Q106504971	
+Q106504986	
+Q106505016	
+Q106505035	
+Q106505045	
+Q106509178	

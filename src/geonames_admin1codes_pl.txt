@@ -1,0 +1,66 @@
+PL.00	Poland (general)
+PL.23	Biala Podlaska
+PL.24	Bialystok
+PL.25	Bielsko
+PL.26	Bydgoszcz
+PL.27	Chelm
+PL.28	Ciechanow
+PL.29	Czestochowa
+PL.30	Elblag
+PL.31	Gdansk
+PL.32	Gorzow
+PL.33	Jelenia Gora
+PL.34	Kalisz
+PL.35	Katowice
+PL.36	Kielce
+PL.37	Konin
+PL.38	Koszalin
+PL.39	Krakow
+PL.40	Krosno
+PL.41	Legnica
+PL.42	Leszno
+PL.43	Lodz
+PL.44	Lomza
+PL.45	Lublin
+PL.46	Nowy Sacz
+PL.47	Olsztyn
+PL.48	Opole
+PL.49	Ostroleka
+PL.50	Pita
+PL.51	Piotrkow
+PL.52	Plock
+PL.53	Poznan
+PL.54	Przemysl
+PL.55	Radom
+PL.56	Rzeszow
+PL.57	Siedlce
+PL.58	Sieradz
+PL.59	Skierniewice
+PL.60	Slupsk
+PL.61	Suwalki
+PL.62	Szczecin
+PL.63	Tarnobrzeg
+PL.64	Tarnow
+PL.65	Torufi
+PL.66	Walbrzych
+PL.67	Warszawa
+PL.68	Wloclawek
+PL.69	Wroclaw
+PL.70	Zamosc
+PL.71	Zielona Gora
+PL.72	Lower Silesian Voivodeship
+PL.73	Kujawsko-Pomorskie
+PL.74	Łódź Voivodeship
+PL.75	Lublin Voivodeship
+PL.76	Lubusz
+PL.77	Lesser Poland Voivodeship
+PL.78	Masovian Voivodeship
+PL.79	Opole Voivodeship
+PL.80	Subcarpathian Voivodeship
+PL.81	Podlasie
+PL.82	Pomeranian Voivodeship
+PL.83	Silesian Voivodeship
+PL.84	Świętokrzyskie
+PL.85	Warmian-Masurian Voivodeship
+PL.86	Greater Poland Voivodeship
+PL.87	West Pomeranian Voivodeship
