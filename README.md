@@ -6,6 +6,6 @@ gazetteers.net enables users to search several place name related databases simu
 
 The repository's purpose is mainly documentation of the backend code and data structure.
 
-For the frontend repository see <a href="https://github.com/ifl-geovis/">github.com/ifl-geovis/</a>.
+For the frontend repository see <a href="https://github.com/ifl-geovis/gazetteers">github.com/ifl-geovis/gazetteers</a>.
 
 The project documentation is located <a href="https://www.gazetteers.net/meta.html">here</a>.
